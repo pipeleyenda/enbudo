@@ -1,0 +1,39 @@
+.misuperheader {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-image: url(imagenes/placeholder.png);
+    
+
+}
+h1{
+        font-family: "Quicksand", Sans-serif;
+    font-size: 1.8rem;
+    font-weight: bold;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+p{
+    font-family: "Maven Pro", Sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: #EFE3C5;
+}
+input{
+    background-color: #FFFFFF4A;
+    border-color: #02010100;
+    height: 47px;
+}
+button{
+    background-color: #FFBA00;
+    color: #251300;
+}
+form{
+    display: flex
+;
+    flex-direction: column;
+}
+form{
+    display: flex table-column-group 1;
+    display: flex table-column-group 2;
+}
